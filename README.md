@@ -36,4 +36,4 @@ Future Development:
 
 What the app ended up looking like:
 
-![Game](https://i.imgur.com/9Me2H3T.png)
+![Game](https://i.imgur.com/8OH3DVP.png)
