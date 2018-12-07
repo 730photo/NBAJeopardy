@@ -30,4 +30,4 @@ Make it a multiplayer game.
 Add A.I. (player vs. computer).
 Add multiple answer options.
 
-
+![Game](https://i.imgur.com/9Me2H3T.png)
