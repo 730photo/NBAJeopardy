@@ -1,0 +1,77 @@
+.headerOne {
+    margin-top: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+    background-color: #E70000;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 40px;
+    opacity: 0.85;
+    border: 5px solid gold;
+}
+.scoreboard {
+    font-family: 'Gloria Hallelujah', cursive;
+    border: 5px solid gold ;
+    display: grid;
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    margin: 30px 20%;
+    background-color: blue;
+    border-radius: 35px;
+    opacity: 0.85;
+}
+#logo {
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    /* margin-bottom: 30px; */
+    max-width: 150px;   
+}
+.body {
+    background-size: cover;
+}
+.container {
+    font-family: 'Gloria Hallelujah', cursive;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 33fr 33fr 34fr;
+    grid-template-rows: 50px 100px 100px 100px;
+}
+.modal-question{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.disabled {
+    pointer-events: none;
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+#HeaderOne, #HeaderTwo, #HeaderThree {
+    font-family: 'Gloria Hallelujah', cursive;
+    background: lightblue;
+    text-align: center;
+    padding: 10px;
+    border-radius: 35px;
+    font-weight: bolder;
+}
+#headerJeopardy {
+    max-width: 500px;
+}
+
+#reset {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+
+
