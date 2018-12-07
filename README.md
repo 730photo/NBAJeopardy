@@ -17,17 +17,23 @@ For project #1, I created a simple game of Jeopardy.
 -The game is over once you reach 100 points. You will get a Sweet Alert saying "YOU WIN!"
 
 Technologies Used:
-
-Languages - HTML5, CSS3, Javascript, jQuery
-Design - Google Fonts, Sweet Alert
-Project Planning & User Stories - Trello
-Text Editor- VS Code
+<ul>
+<li>Languages - HTML5, CSS3, Javascript, jQuery</li>
+<li>Design - Google Fonts, Sweet Alert</li>
+<li>Project Planning & User Stories - Trello</li>
+<li>Text Editor- VS Code</li>
+</ul>
 
 
 Future Development:
+<ol>
+<li>Make it a multiplayer game.</li>
+<li>Add A.I. (player vs. computer).</li>
+<li>Add multiple answer options.</li>
+</ol>
 
-Make it a multiplayer game.
-Add A.I. (player vs. computer).
-Add multiple answer options.
+
+
+What the app ended up looking like:
 
 ![Game](https://i.imgur.com/9Me2H3T.png)
