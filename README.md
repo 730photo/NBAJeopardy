@@ -1,3 +1,13 @@
+<h1>Deployed App:</h1>
+(https://goofy-dijkstra-aefb9a.netlify.com/)
+
+_______
+
+<h1>What the app looks like:</h1>
+
+![Game](https://i.imgur.com/ocTEx1t.png)
+
+
 # NBAJeopardy-redo-
 
 <h5>For project #1, I created a simple game of Jeopardy. 
@@ -15,6 +25,7 @@
 -if you decide to not answer a question once you click the rectangle, you will lose the ability to click that rectangle/question again.
 
 -The game is over once you reach 100 points. You will get a Sweet Alert saying "YOU WIN!"</h5>
+_____
 
 <h3>Technologies Used:</h3>
 <ul>
@@ -31,9 +42,3 @@
 <li>Add A.I. (player vs. computer).</li>
 <li>Add multiple answer options.</li>
 </ol>
-
-
-
-<h1>What the app looks like:</h1>
-
-![Game](https://i.imgur.com/8OH3DVP.png)
