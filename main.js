@@ -11,7 +11,7 @@ $(() => {
         })
         newScore(score);
     }) 
-    //Add 20 points and display CORRECT
+    //Add 20 points and display CORRECTO
     $(".correctTwentyPoints").on('click', () => {
         score += 20
         console.log(score)
